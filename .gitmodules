@@ -12,3 +12,8 @@
 	path = Codyd-Code1/predictor
 	url = git@github.com:Codyd-Code1/predictor.git
 	branch = main
+
+[submodule "Codyd-Code2/predictor2"]
+	path = Codyd-Code2/predictor2
+	url = git@github.com:Codyd-Code2/predictor.git
+	branch = main
