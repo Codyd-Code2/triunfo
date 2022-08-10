@@ -1,0 +1,4 @@
+[submodule "predictor"]
+	path = predictor
+	url = git@github.com:Codyd-Code1/predictor.git
+	branch = main
